@@ -1,5 +1,5 @@
 
-# 💫 Hi 👋, I'm Muhammad Ramzan
+# Muhammad Ramzan
 **Flutter Developer | Mobile App Architect | UI/UX Enthusiast**
 
 📧 **Email:** [ramzanrai43@gmail.com](mailto:ramzanrai43@gmail.com)  
