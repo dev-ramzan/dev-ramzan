@@ -53,11 +53,17 @@
 ---
 
 ## 📂 Featured Projects
-⭐ **[Employee-Attendnce-App](#)** — Maintain records of employees, check in check out in realtime, weekly Attendnce summary
-⭐ **[Banner-Maker-App](#)** — Make yourcustom Banner, Modern styling, edititable templates,
-⭐ **[E-Commerce App](#)** — Modern shopping app with clean architecture  
-⭐ **[Mental Wellness App](#)** — Track moods, journaling, guided meditations  
-⭐ **[Blog App](#)** — Make blog app using Beautiful & reusable Flutter components
+
+⭐ **[Employee Attendance App](#)** — Manage employee records with real-time check-in/check-out, and weekly attendance summaries.  
+
+⭐ **[Banner Maker App](#)** — Create custom banners with modern styling and fully editable templates.  
+
+⭐ **[E-Commerce App](#)** — A modern shopping app built with clean architecture and a smooth user experience.  
+
+⭐ **[Mental Wellness App](#)** — Track moods, write journals, and enjoy guided meditations for better mental health.  
+
+⭐ **[Blog App](#)** — A beautiful, reusable Flutter blog app built with modular and scalable components.  
+
 
 ---
 
